@@ -39,3 +39,14 @@ Figures (a), (b), (c) show the deformation caused by pushing
 different parts of the left lung’s surface. In picture (d) we can see the
 deformation produced by grasping and pulling the human lung. Transparent pink color used to represent the undeformed state of the soft organ and dark pink to highlight the deformed state.
 
+## Comparison with more precise models
+
+In this section, we replace the internal model of human left lung with two coarser and three more high resolution models. The
+number of elements each object includes is presented in the following table. The
+purpose of this section is to observe the improvement of the precision of
+the deformation using more analytic FEM models ( with greater number
+of elements) . However, using more precise internal models decreases the
+computational performance of our application leading to no real-time results.
+
+
+## Comparison with FEBIO
