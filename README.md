@@ -29,5 +29,8 @@ The virtual environment includes the human lungs with dark pink, diahragm with d
 
 ![Καταγραφή18](https://user-images.githubusercontent.com/43147324/65963213-f0d61280-e462-11e9-92d3-3ec9b7d96120.PNG)
 
-There is a multimodel representation for each organ. 
+There is a multimodel representation for each organ. Dark pink is the visual model, blue is the internal (FEM) model and yellow is the collision model of the human lung.
+
+![Καταγραφή15](https://user-images.githubusercontent.com/43147324/65963684-f8e28200-e463-11e9-967a-91224f8a99cd.PNG)
+
 ## 
