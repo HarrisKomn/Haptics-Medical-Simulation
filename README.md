@@ -33,4 +33,9 @@ There is a multimodel representation for each organ. Dark pink is the visual mod
 
 ![Καταγραφή15](https://user-images.githubusercontent.com/43147324/65963684-f8e28200-e463-11e9-967a-91224f8a99cd.PNG)
 
-## 
+## Interactions and Deformations
+
+Figures (a), (b), (c) show the deformation caused by pushing
+different parts of the left lung’s surface. In picture (d) we can see the
+deformation produced by grasping and pulling the human lung. Transparent pink color used to represent the undeformed state of the soft organ and dark pink to highlight the deformed state.
+
