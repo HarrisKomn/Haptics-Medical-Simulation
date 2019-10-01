@@ -27,3 +27,7 @@ medical simulation in the field of medicine.
 
 The virtual environment includes the human lungs with dark pink, diahragm with dark red, bronchus with white and thorac with transparent grey.
 
+![Καταγραφή18](https://user-images.githubusercontent.com/43147324/65963213-f0d61280-e462-11e9-92d3-3ec9b7d96120.PNG)
+
+There is a multimodel representation for each organ. 
+## 
