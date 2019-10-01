@@ -1,5 +1,5 @@
 # Medical-Simulation-Haptics
-
+## Abstract
 This research work aims to develop a virtual environment appropriate for
 interactive (real-time) simulations of medical and surgical interventions.
 These simulations have many applications including training of surgeons,
@@ -22,3 +22,8 @@ haptic rendering. Furthermore, we present a detailed analysis of our implementat
 diaphragm and thorac, which the user can interact with, in real-time. Finally, we report the results derived from conducted experiments which prove
 the validity of our application. We propose future work that will establish
 medical simulation in the field of medicine.
+
+## Virtual Environment
+
+The virtual environment includes the human lungs with dark pink, diahragm with dark red, bronchus with white and thorac with transparent grey.
+
