@@ -1,1 +1,1 @@
-# Haptics-Medical-Simulation
+# Medical-Simulation-Haptics
